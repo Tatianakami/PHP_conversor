@@ -6,7 +6,7 @@ Este é um projeto web desenvolvido em **PHP**, **HTML/CSS** e utilizando a **AP
 
 ## 🖼️ Demonstração
 
-![Interface do Conversor](PHP-conversor/conversor2.png)
+![Interface do Conversor](assets/conversor2.png)
 
 
 
@@ -76,7 +76,7 @@ A interface é toda executada localmente, sem necessidade de banco de dados.
 
 🧑‍💻 Autor
 Desenvolvido por Tatiana Kami
-🔗 LinkedIn | ✉️ contato@example.com
+🔗 LinkedIn | ✉️ linkedin.com/in/tatiana-kami
 
 📃 Licença
 Este projeto está licenciado sob a MIT License. Você pode utilizá-lo, modificá-lo e distribuí-lo livremente, desde que mantenha os devidos créditos.
