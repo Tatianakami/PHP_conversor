@@ -8,7 +8,7 @@ Este é um projeto web desenvolvido em **PHP**, **HTML/CSS** e utilizando a **AP
 
 ![Interface do Conversor](PHP-conversor/conversor2.png)
 
-> 💡 ./conversor2.png
+
 
 ---
 
